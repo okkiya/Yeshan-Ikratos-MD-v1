@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '94701363708' //Nomor Bot
+global.nomorown = '94725058757' //Nomor Owner
+global.namebot = 'ˣˣShana Girl 🙃💞' //Nama Bot
+global.nameown = 'Yeshan Basnayake' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,7 +65,7 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['94725058757', 'Yeshan Basnayake', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,18 +104,18 @@ global.APIKeys = { // APIKey Here
 global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
+global.footerTXT = `Created By Yeshan MD ☃️♥️\nowner: +94 70 136 3708`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '|👅🍃|| ❤‍🩹🍭̶⃝⃚🤍: ම̶ම̶ ව̶ල̶් නෑ̶ ම̶ගෙ̶ සි̶තු̶වි̶ලි̶ ටි̶ක̶ක̶් සෙ̶ස̶්සී̶ :🤍̶⃝⃚🥵|🍃:____°°|•🖇️|°🧬|°🌸.....||💊]'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.thumb = 'https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg' //Main Thumbnail
+global.thumb2 = 'https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg'
 global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
